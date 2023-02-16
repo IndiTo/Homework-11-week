@@ -1,0 +1,48 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    margin-left: 15px;
+    font-size: 28px;
+}
+
+.cart_cart_item {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+    width: 1500px;
+    height: 300px;
+    
+}
+
+.cart_item {
+    
+    width: 350px;
+    height: 300px;
+}
+
+.item {
+width: 900px;
+padding: 70px;
+display: flex;
+justify-content: flex-end;
+align-items: center;
+
+}
+
+img {
+    width: 320px;
+    height: 300px;
+}
+
+.name_of_product {
+    padding-top: 15px;
+}
+
+.sale, .summ {
+width: 250px;
+height: 50px;
+margin-top: 20px;
+margin-left: 15px;
+font-size: 20px;
+}
+
